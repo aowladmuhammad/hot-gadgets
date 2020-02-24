@@ -1,0 +1,78 @@
+body {
+    font-family: 'Poppins';
+}
+.main-nav-menu-section li a {
+    font-size: 14px;
+}
+.main-nav-menu-section li {
+    padding: 0.75rem;
+}
+
+.carousel-inner h1 {
+    font-size: 36px;
+    color: #121212;
+}
+.carousel-inner p {
+    font-size: 14px;
+    color: #808080;
+    width: 90%;
+    line-height: 1.8;
+}
+.btn-dark {
+    background: #000000;
+    padding: 0.5rem 1.5rem;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.carousel-indicators li.active {
+    background-image: linear-gradient( #FFB926, #FFD019 );
+    padding: 3px 3px;
+    border-radius: 13px !important;
+}
+.carousel-indicators li:not(.active) {
+    background-color:  #808080;
+    border-radius: 13px !important;
+    padding: 2px 0px;
+    width: 12px;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.d-flex a {
+    color: #FF9800;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.card {
+    border: none;
+}
+
+.smartphone-section .card img {
+    width: 75%;
+    margin: auto;
+}
+.card p {
+    font-size: 14px;
+    color: #808080;
+    line-height: 1.8;
+}
+
+h6 {
+    font-weight: 900;
+}
+
+.categories-section {
+    background-color: #F3F3F3;
+}
+.category {
+    background-color: white;
+    padding: 20px;
+    width: 210px;
+    height: 210px;
+}
+
+
